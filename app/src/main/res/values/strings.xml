@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">exam</string>
+    <string name="transport">Транспорт</string>
+    <string name="food">Еда</string>
+    <string name="Entertainments">Развлечения</string>
+    <string name="Clothes">Одежда</string>
+    <string name="expenses">Ваши расходы</string>
+    <string name="price">Расходы: %s</string>
+    <string name="sum">Всего потрачено: %sum</string>
+</resources>
